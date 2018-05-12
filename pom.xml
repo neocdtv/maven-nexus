@@ -3,7 +3,7 @@
   <groupId>io.neocdtv</groupId>
   <artifactId>maven-nexus-test</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <name>maven-nexus-test</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -17,7 +17,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:neocdtv/maven-nexus.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>maven-nexus-test-1.2</tag>
   </scm>
 
   <distributionManagement>
